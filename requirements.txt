@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+langchain
+openai
+chromadb
+faiss-cpu
+sentence-transformers
+tiktoken
+transformers
+numpy
+scikit-learn
